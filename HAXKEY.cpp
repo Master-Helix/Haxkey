@@ -112,7 +112,7 @@ int main() {
 
 
    while(1){
-      cout<<"Hello! Welcome to the UNBROKEN LOCK. Press 1 to Sign up and 2 to Login and 0 to exit "<<endl;
+      cout<<"Hello! Welcome to the HAXKEY! Press 1 to Sign up and 2 to Login and 0 to exit "<<endl;
       int choice;
       cin>>choice;
       if(choice==1)
@@ -296,7 +296,7 @@ int main() {
    
    else{
 
-   cout<<"THANK YOU For using The UNBROKEN LOCK !! Have a Nice Day:)"<<endl;
+   cout<<"THANK YOU For using The HAXKEY Services !! Have a Nice Day:)"<<endl;
    }
    return 0;
 
